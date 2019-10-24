@@ -13,3 +13,9 @@
  */
 @import "bootstrap-sprockets";
 @import "bootstrap";
+
+// Variables
+@import "variables";
+
+// Partials - main css files
+@import "partials/*";
